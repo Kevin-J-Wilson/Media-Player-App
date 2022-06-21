@@ -1,0 +1,101 @@
+﻿<Window x:Class="WpfTutorialSamples.Audio_and_Video.MediaPlayerWPF"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WPF Media Player" Height="300" Width="361"
+        MinWidth="300" SizeToContent="WidthAndHeight">
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Open"  CanExecute="Open_CanExecute"    Executed="Open_Executed" />
+        <CommandBinding Command="MediaCommands.Play"        CanExecute="Play_CanExecute"    Executed="Play_Executed" />
+        <CommandBinding Command="MediaCommands.Pause"       CanExecute="Pause_CanExecute" Executed="Pause_Executed" />
+        <CommandBinding Command="MediaCommands.Stop"        CanExecute="Stop_CanExecute" Executed="Stop_Executed" />
+        <CommandBinding Command="MediaCommands.DecreaseVolume"        CanExecute="DecreaseVolume_CanExecute" Executed="DecreaseVolume_Executed" />
+        <CommandBinding Command="MediaCommands.IncreaseVolume"        CanExecute="IncreaseVolume_CanExecute" Executed="IncreaseVolume_Executed" />
+        <CommandBinding Command="MediaCommands.FastForward"        CanExecute="FastForward_CanExecute" Executed="FastForward_Executed" />
+        <CommandBinding Command="MediaCommands.Rewind"        CanExecute="Rewind_CanExecute" Executed="Rewind_Executed" />
+    </Window.CommandBindings>
+    <Grid MouseWheel="Grid_MouseWheel">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <ToolBar Margin="0,0,140,0">
+            <Button Name="OPEN" Command="ApplicationCommands.Open">
+                <Image Source="https://img.icons8.com/material/24/undefined/open-view.png"/>
+            </Button>
+            <Separator />
+            <Button Command="MediaCommands.Play">
+                <Image Source="https://img.icons8.com/material/24/undefined/play-button-circled--v1.png" />
+            </Button>
+            <Button Command="MediaCommands.Pause">
+                <Image Source="https://img.icons8.com/material-outlined/24/undefined/pause--v1.png" />
+            </Button>
+            <Button Command="MediaCommands.Stop">
+                <Image Source="https://img.icons8.com/offices/30/undefined/stop.png" />
+            </Button>
+            <Button x:Name="btnRepeat" Click="btnRepeat_Click">
+                <Image Source="https://img.icons8.com/material-outlined/24/undefined/rotate.png"/>
+            </Button>
+            <StackPanel >
+                <Button Command="MediaCommands.FastForward">
+                    <Image Source="https://img.icons8.com/windows/32/undefined/running-rabbit.png" />
+                </Button>
+                <Button Command="MediaCommands.Rewind">
+                    <Image Source="https://img.icons8.com/ios-glyphs/30/undefined/snail.png" />
+                </Button>
+            </StackPanel>
+            <Button x:Name="btnMinimize" HorizontalAlignment="Right" Height="20" Grid.Row="1" VerticalAlignment="Bottom" Width="20" Click="btnMinimize_Click" Content="-&#xD;&#xA;"/>
+            <Button x:Name="btnMaximize" Content="+" Height="20" Margin="321,0,20,0" Grid.Row="1" VerticalAlignment="Bottom" Click="btnMaximize_Click" HorizontalAlignment="Right" Width="20"/>
+        </ToolBar>
+
+        <MediaElement Name="mediaBox" Grid.Row="1" LoadedBehavior="Manual" Stretch="None" />
+
+        <StatusBar Grid.Row="2">
+            <StatusBar.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                    </Grid>
+                </ItemsPanelTemplate>
+            </StatusBar.ItemsPanel>
+
+            <StatusBarItem>
+                <TextBlock Name="lblProgressBar">00:00:00</TextBlock>
+            </StatusBarItem>
+
+            <StatusBarItem Grid.Column="1" HorizontalContentAlignment="Stretch">
+                <Slider Name="sliProgress" Width="Auto" Thumb.DragStarted="sliProgress_DragStarted"  Thumb.DragCompleted="sliProgress_DragCompleted" ValueChanged="sliProgress_ValueChanged" />
+            </StatusBarItem>
+
+            <StatusBarItem Grid.Column="2" HorizontalContentAlignment="Stretch">
+                <Button Command="MediaCommands.DecreaseVolume">
+                    <Image Source="https://img.icons8.com/material/24/undefined/sound-speaker.png" />
+                </Button>
+            </StatusBarItem>
+
+            <StatusBarItem Grid.Column="3">
+                <Slider Name="sliVolume" Width="75" Height="12" Minimum="0" Maximum="1" Value="{Binding ElementName=mediaBox, Path=Volume}" />
+            </StatusBarItem>
+
+
+            <StatusBarItem Grid.Column="4" HorizontalContentAlignment="Stretch">
+                <Button Command="MediaCommands.IncreaseVolume">
+                    <Image Source="https://img.icons8.com/material/24/undefined/speaker--v1.png" />
+                </Button>
+            </StatusBarItem>
+        </StatusBar>
+
+        <Label Name="lblCurrentSpeed" Content="{Binding ElementName=mediaBox, Path=SpeedRatio}" HorizontalAlignment="Left" Margin="228,39,0,0" VerticalAlignment="Top" Height="26" Width="26"/>
+        <Label Content="Current&#xD;&#xA;Speed" HorizontalAlignment="Left" Margin="221,8,0,0" VerticalAlignment="Top" Width="66" Height="46"/>
+
+        <Image Name="imgImageBox" Visibility="Hidden" HorizontalAlignment="Center" Height="Auto" Grid.Row="1" VerticalAlignment="Top" Width="Auto"/>
+        <Button x:Name="btnHelp" Content="Help" HorizontalAlignment="Left" Margin="313,0,0,55" Click="btnHelp_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,140 @@
+C:\Users\joroa\Desktop\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.exe
+C:\Users\joroa\Desktop\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.deps.json
+C:\Users\joroa\Desktop\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.runtimeconfig.json
+C:\Users\joroa\Desktop\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.dll
+C:\Users\joroa\Desktop\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.pdb
+C:\Users\joroa\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.csproj.AssemblyReference.cache
+C:\Users\joroa\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\joroa\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\joroa\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\joroa\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF_MarkupCompile.cache
+C:\Users\joroa\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.g.resources
+C:\Users\joroa\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joroa\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.AssemblyInfoInputs.cache
+C:\Users\joroa\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.AssemblyInfo.cs
+C:\Users\joroa\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.csproj.CoreCompileInputs.cache
+C:\Users\joroa\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.dll
+C:\Users\joroa\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\refint\MediaPlayer_WPF.dll
+C:\Users\joroa\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.pdb
+C:\Users\joroa\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.genruntimeconfig.cache
+C:\Users\joroa\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\ref\MediaPlayer_WPF.dll
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.exe
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.deps.json
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.runtimeconfig.json
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.dll
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.pdb
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.csproj.AssemblyReference.cache
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF_MarkupCompile.cache
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.g.resources
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.AssemblyInfoInputs.cache
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.AssemblyInfo.cs
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.dll
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\refint\MediaPlayer_WPF.dll
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.pdb
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.genruntimeconfig.cache
+C:\Users\Daniel Spiering\Downloads\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\ref\MediaPlayer_WPF.dll
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.exe
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.deps.json
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.runtimeconfig.json
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.dll
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.pdb
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.csproj.AssemblyReference.cache
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF_MarkupCompile.cache
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.g.resources
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.AssemblyInfoInputs.cache
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.AssemblyInfo.cs
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.csproj.CoreCompileInputs.cache
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.dll
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\refint\MediaPlayer_WPF.dll
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.pdb
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.genruntimeconfig.cache
+C:\Users\getti\Downloads\PureMoods _V1_6_8 (2)\PureMoods _V1_6_8\MediaPlayer_WPF\obj\Debug\net6.0-windows\ref\MediaPlayer_WPF.dll
+C:\Users\getti\Desktop\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.exe
+C:\Users\getti\Desktop\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.deps.json
+C:\Users\getti\Desktop\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.runtimeconfig.json
+C:\Users\getti\Desktop\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.dll
+C:\Users\getti\Desktop\MediaPlayer_WPF\bin\Debug\net6.0-windows\MediaPlayer_WPF.pdb
+C:\Users\getti\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.csproj.AssemblyReference.cache
+C:\Users\getti\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\getti\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\getti\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\getti\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF_MarkupCompile.cache
+C:\Users\getti\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.g.resources
+C:\Users\getti\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\getti\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.AssemblyInfoInputs.cache
+C:\Users\getti\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.AssemblyInfo.cs
+C:\Users\getti\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.csproj.CoreCompileInputs.cache
+C:\Users\getti\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.dll
+C:\Users\getti\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\refint\MediaPlayer_WPF.dll
+C:\Users\getti\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.pdb
+C:\Users\getti\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\MediaPlayer_WPF.genruntimeconfig.cache
+C:\Users\getti\Desktop\MediaPlayer_WPF\obj\Debug\net6.0-windows\ref\MediaPlayer_WPF.dll
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\bin\Debug\net6.0-windows\MediaPlayer_WPF.exe
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\bin\Debug\net6.0-windows\MediaPlayer_WPF.deps.json
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\bin\Debug\net6.0-windows\MediaPlayer_WPF.runtimeconfig.json
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\bin\Debug\net6.0-windows\MediaPlayer_WPF.dll
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\bin\Debug\net6.0-windows\MediaPlayer_WPF.pdb
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\obj\Debug\net6.0-windows\MediaPlayer_WPF.csproj.AssemblyReference.cache
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\obj\Debug\net6.0-windows\MediaPlayer_WPF_MarkupCompile.cache
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\obj\Debug\net6.0-windows\MediaPlayer_WPF.g.resources
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\obj\Debug\net6.0-windows\MediaPlayer_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\obj\Debug\net6.0-windows\MediaPlayer_WPF.AssemblyInfoInputs.cache
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\obj\Debug\net6.0-windows\MediaPlayer_WPF.AssemblyInfo.cs
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\obj\Debug\net6.0-windows\MediaPlayer_WPF.csproj.CoreCompileInputs.cache
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\obj\Debug\net6.0-windows\MediaPlayer_WPF.dll
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\obj\Debug\net6.0-windows\refint\MediaPlayer_WPF.dll
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\obj\Debug\net6.0-windows\MediaPlayer_WPF.pdb
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\obj\Debug\net6.0-windows\MediaPlayer_WPF.genruntimeconfig.cache
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_15\obj\Debug\net6.0-windows\ref\MediaPlayer_WPF.dll
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\bin\Debug\net6.0-windows\MediaPlayer_WPF.exe
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\bin\Debug\net6.0-windows\MediaPlayer_WPF.deps.json
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\bin\Debug\net6.0-windows\MediaPlayer_WPF.runtimeconfig.json
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\bin\Debug\net6.0-windows\MediaPlayer_WPF.dll
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\bin\Debug\net6.0-windows\MediaPlayer_WPF.pdb
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.csproj.AssemblyReference.cache
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF_MarkupCompile.cache
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.g.resources
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.AssemblyInfoInputs.cache
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.AssemblyInfo.cs
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.csproj.CoreCompileInputs.cache
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.dll
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\obj\Debug\net6.0-windows\refint\MediaPlayer_WPF.dll
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.pdb
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.genruntimeconfig.cache
+C:\Users\joroa\Desktop\PureMoods Versions\PureMoods_V1_6_16\obj\Debug\net6.0-windows\ref\MediaPlayer_WPF.dll
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\bin\Debug\net6.0-windows\MediaPlayer_WPF.exe
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\bin\Debug\net6.0-windows\MediaPlayer_WPF.deps.json
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\bin\Debug\net6.0-windows\MediaPlayer_WPF.runtimeconfig.json
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\bin\Debug\net6.0-windows\MediaPlayer_WPF.dll
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\bin\Debug\net6.0-windows\MediaPlayer_WPF.pdb
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.csproj.AssemblyReference.cache
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF_MarkupCompile.cache
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.g.resources
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.AssemblyInfoInputs.cache
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.AssemblyInfo.cs
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.csproj.CoreCompileInputs.cache
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.dll
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\obj\Debug\net6.0-windows\refint\MediaPlayer_WPF.dll
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.pdb
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\obj\Debug\net6.0-windows\MediaPlayer_WPF.genruntimeconfig.cache
+C:\Users\getti\Desktop\PureMoods_V1_6_16\PureMoods_V1_6_16\obj\Debug\net6.0-windows\ref\MediaPlayer_WPF.dll
